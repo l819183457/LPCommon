@@ -1,0 +1,443 @@
+
+阿尔巴尼亚  AL  Albania 
+
+阿尔及利亚  DZ  Algeria 
+
+阿富汗  AF  Afghanistan 
+
+阿根廷  AR  Argentina 
+
+阿拉伯联合酋长国  AZ  Azerbaijan
+
+阿拉伯联合酋长国  AE  United Arab Emirates 
+
+阿鲁巴  AW  Aruba 
+
+阿曼  OM  Oman   
+
+埃及  EG  Egypt 
+
+埃塞俄比亚  ET  Ethiopia 
+
+爱尔兰  IE  Ireland 
+
+爱沙尼亚  EE  Estonia 
+
+安道尔  AD  Andorra 
+
+安哥拉  AO  Angola
+
+安圭拉  AI  Angola 
+
+安提瓜和巴布达  AG  Ntigua and Barbuda 
+
+奥地利  AT  Austria 
+
+澳大利亚  AU  Australia 
+
+巴巴多斯  BB  Barbados 
+
+巴布亚新几内亚  PG  Papua,Territory of 
+
+巴哈马  BS  Bahamas 
+
+巴基斯坦  PK  Pakistan 
+
+巴拉圭  PY  Paraguay 
+
+巴林  BH  Bahrain 
+
+巴拿马  PA  Panama 
+
+巴西  BR  Brazil 
+
+白俄罗斯共和  BY  White Russia 
+
+白俄罗斯共和  BY  Byelorussian SSR 
+
+百慕大  BM  Bermuda 
+
+保加利亚  BG  Bulgaria  
+
+贝宁  BJ  Benin 
+
+比利时  BE  Belgium 
+
+冰岛  IS  Iceland 
+
+波多黎各（美）  PR  Puerto Rico 
+
+波兰  PL  Poland 
+
+波斯尼亚和黑塞哥维那 BA  Bosnia Hercegovina 
+
+玻利维亚  BO  Bolivia 
+
+伯利兹  BZ  Belize 
+
+博茨瓦纳  BW  Botswana 
+
+不丹  BT  Bhutan 
+
+不列颠岛(美)  VI  Vigin Islands(U.S.) 
+
+不列颠岛(英)  VG  Virgin Islands(British) 
+
+布基纳法索  BF  Burkina Faso 
+
+布隆迪  BI  Burundi 
+
+布维岛  BV  Bouvet Island 
+
+朝鲜  KP  North Korea 
+
+赤道几内亚  GQ  Equatorial Guinea 
+
+丹麦  DK  Denmark 
+
+德国  DE  Grmany 
+
+东帝  TP  East Timor 
+
+多哥  TG  Togo 
+
+多米尼加共和国  DO  Dominica 
+
+多明哥  DM  Gominica 
+
+俄罗斯联邦  RU  Russia 
+
+厄瓜多尔  EC  Ecuador 
+
+法国  FR  France 
+
+法属玻里尼西亚  PF  French Polynesia 
+
+法属圭亚那  GF  French Guiana 
+
+法属南方领土  TF  French Southern Territoties 
+
+梵蒂冈（罗马教庭）  VA  Vatican 
+
+菲律宾  PH  Philippines 
+
+斐济  FJ  Fiji 
+
+芬兰  FI  Finland 
+
+佛得角  CV  Cape Verde,Republic of 
+
+福克兰群岛  FK  Falkland Islands 
+
+冈比亚  GM  Gambia 
+
+刚果（布） CG  Congo 
+
+哥伦比亚  CO  Colombia 
+
+哥斯达黎加  CR  Costa rica 
+
+格林纳达  GD  Grenada 
+
+格陵兰  GL  Greenland 
+
+格鲁吉亚  GE  Georgia 
+
+古巴  CU  Cuba 
+
+瓜德罗普  GP  Guadeloupe 
+
+关岛  GU  Guam 
+
+圭亚那  GY  Guyana 
+
+哈萨克斯坦  KZ  Kazakstan 
+
+海地共和国 HT  Haiti 
+
+韩国  KR  Korea 
+
+荷兰  NL  Netherlands 
+
+洪都拉斯  HN  Honduras 
+
+基里巴斯  KI  Kiribati 
+
+吉布提  DJ  Djibouti 
+
+吉尔吉斯共和国 KG  Kyrgyzstan 
+
+几内亚  GN  Guinea 
+
+几内亚比绍  GW  Guinea-Bissau 
+
+加拿大  CA  Canada
+加纳  GH  Ghana 
+
+加蓬  GA  Gabon 
+
+柬埔寨  KH  Cambodia 
+
+捷克共和国  CZ  Czech Republic 
+
+津巴布韦  ZW  Zimbabwe 
+
+喀麦隆  CM  Cameroon 
+
+卡塔尔  QA  Qatar 
+
+开曼群岛  KY  Cayman Islands 
+
+科摩罗  KM  Comoros
+
+科威特  KW  kuwait 
+
+可可岛  CC  COCOS Islands 
+
+克罗地亚  HR  Croatia 
+
+肯尼亚  KE  Kenya 
+
+库克群岛  CK  Cook Island 
+
+拉托维亚  LV  Latvia 
+
+莱索托  LS  Lesotho 
+
+老挝  LA  Laos 
+
+黎巴嫩  LB  Lebanon 
+
+立陶宛共和国 LT  Lithuania 
+
+利比里亚  LR  Liberia 
+
+利比亚  LY  Libya 
+
+列支敦士登  LI  Liechtenstein 
+
+卢森堡  LU  Luxembourg 
+
+卢旺达  RW  Rwanda 
+
+罗马尼亚  RO  Romania 
+
+马达加斯加  MG  Malagasy 
+
+马尔代夫  MV  Maldives 
+
+马尔他  MT  Malta 
+
+马尔维纳斯群岛  MW  Malawi  
+
+马来西亚  MY  Malaysia 
+
+马里  ML  Mali  
+
+马绍尔群岛共和国 MH  Marshall Islands 
+
+毛里求斯  MU  Mauritius 
+
+毛里塔尼亚  MR  Mauritania 
+
+美国  US  America 
+
+美属萨摩亚 UM     
+
+蒙古  MN  Mongolia 
+
+孟加拉  BD  Bangladesh 
+
+秘鲁  PE  Peru 
+
+密克罗尼西亚联邦 FM  Micronesia 
+
+缅甸  MM  Burma
+
+摩尔多瓦  MD  Moldova,Republic of 
+
+摩洛哥  MA  Morocco 
+
+摩纳哥  MC  Monaco 
+
+莫桑比克  MZ  Mozambique 
+
+墨西哥  MX  Mexico 
+
+纳米比亚  NA  Namibia 
+
+南非  ZA  South Africa 
+
+南极洲  AQ  Antarctica 
+
+南斯拉夫  YU  Yugoslavia 
+
+瑙鲁  NR  Naura 
+
+尼泊尔  NP  Nepal 
+
+尼加拉瓜  NI  Nicaragua 
+
+尼日尔  NE  Niger 
+
+尼日利亚  NG  Nigeria 
+
+纽埃  NU  Niue 
+
+挪威  NO  Norway 
+
+帕劳  PW  Palau 
+
+皮特开恩群岛  PN  Pitcairn Islands 
+
+葡萄牙  PT  Portugal 
+
+日本  JP  Japan 
+
+瑞典  SE  Sweden 
+
+瑞士  CH  Switzerland 
+
+萨尔瓦多  SV  El Salvador 
+
+塞拉利昂  SL  Sierra leone 
+
+塞内加尔  SN  Senegal 
+
+塞浦路斯  CY  Cyprus 
+
+塞舌尔  SC  Seychelles 
+
+沙特阿拉伯  SA  Saudi Arabia 
+
+圣诞岛  CX  Christmas Island 
+
+圣多美与普林西比  ST  Sao Tome and Principe 
+
+圣赫勒那  SH  St.Helena
+
+圣卢西亚  LC  St. Lucia 
+
+圣马力诺  SM  San Marino 
+
+斯里兰卡  LK  Sri Lanka 
+
+斯洛伐克  SK  Slovakia 
+
+斯洛文尼亚  SI  Slovene 
+
+斯威士兰  SZ  Swaziland 
+
+苏丹  SD  Sudan 
+
+苏里南  SR  Surinam 
+
+苏联(前)  SU  USSR(formerly) 
+
+所罗门群岛  SB  Solomon Islands 
+
+索马里  SO  Somali 
+
+塔吉克斯坦  TJ  Tsjikistan 
+
+泰国  TH  Thailand 
+
+坦桑尼亚  TZ  Tanzania 
+
+汤加  TO  Tonga 
+
+特立尼达和多巴哥  TT  Trinidad and Tobago 
+
+突尼斯  TN  Tunisia 
+
+图瓦卢      TV  Tuvalu 
+
+土尔其  TR  Turkey
+
+土库曼斯坦  TM  Turkomanstan 
+
+托克劳  TK  Tokela 
+
+危地马拉  GT  Guatemala 
+
+委内瑞拉  VE  Venezuela 
+
+文莱  BN  Brunei Darussalam 
+
+乌干达  UG  Uganda 
+
+乌克兰  UA  Ukiain 
+
+乌拉圭  UY  uruguay 
+
+乌兹别克斯坦  UZ  Uzbekstan 
+
+西班牙  ES  Spain 
+
+西撒哈拉  EH  West Sahara 
+
+西萨摩亚  WS  Western Samoa 
+
+希腊  GR  Greece 
+
+象牙海岸  CI  Lvory Coast 
+
+新加坡  SG  Singapore 
+
+新喀里多尼亚  NC  New Caledonia 
+
+新西兰  NZ  New Zealand 
+
+匈牙利  HU  Hungary
+
+叙利亚  SY  Syria 
+
+牙买加  JM  Jamaica 
+
+亚美尼亚共和国 AM  Armenia 
+
+也门  YE  Yemen
+
+伊拉克  IQ  Iraq 
+
+伊朗  IR  Iran 
+
+以色列  IL  Israel 
+
+意大利  IT  Italy 
+
+印度  IN  India 
+
+印度尼西亚  ID  Indonesia 
+
+英国  GB  United Kingdom 
+
+英国（正式代码为GB）  UK  England 
+
+英联邦的印度洋领域  IO  British Indian Ocean Territory 
+
+约旦  JO  Jordan 
+
+越南  VN  Vietnam 
+
+赞比亚  ZM  Zambia 
+
+扎伊尔  ZR  Zaire 
+
+乍得  TD  Chad 
+
+直布罗陀  GI  Gibraltar 
+
+智利  CL  Chile 
+
+中非共和国  CF  The Central African Republic 
+
+中国  CN  China 
+
+中国澳门  MO  Macao 
+
+中国台湾  TW  Taiwan 
+
+中国香港  HK  Hong Kong
+
+
